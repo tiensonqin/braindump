@@ -21,7 +21,12 @@
 ** world
 ** great
 ** nice
+** hello
+** world
 ** foo
+** bar
+**
+foo
 ** bar
 **
 ** foo
