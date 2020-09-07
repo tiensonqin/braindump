@@ -15,26 +15,8 @@
 ** world
 ** great
 ** like it
-** so good
-** hello
-** foo
-** bar
-** great
 ** hello
 ** world
-** great
-** like this so much
-** this is so great
-** nice
-** really cool
-** begin thing
-** I like this so much!
-** beautiful done!
-** really awesome!
-** perfect cool1
-** 很好，很好！
-** hello
-**
 * Sep 8th, 2020
 * Sep 9th, 2020
 * Sep 10th, 2020
