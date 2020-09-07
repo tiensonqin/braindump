@@ -17,31 +17,15 @@
 ** like it so much
 ** very cool
 ** hello
-** great
 ** world
-** hello
-** hello
-** world
-** great
+** cool
 ** nice
 ** hello
+** hello
 ** world
-** great
-** hello
-** nice
-** great
-** bingo
-** hello
-** so cool
-** nice
-** great
-** bingo
-** [[Spiking Neurons (Literature Review)]]
-** [[Testing sync at Dropbox - Dropbox]]
 ** hello world
-** great
-** hello
-** world
+** nice work
+** hello world great
 ** world
 * Sep 8th, 2020
 * Sep 9th, 2020
