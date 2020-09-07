@@ -19,7 +19,10 @@
 ** world
 ** hello
 ** world
+** great
+** nice
 ** foo
+** bar
 **
 ** foo
 ** bar
