@@ -17,6 +17,11 @@
 ** like it
 ** hello
 ** world
+** hello
+** world
+** foo
+** bar
+**
 ** foo
 ** bar
 **
